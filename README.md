@@ -1,13 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**🌼 Iris Flower Classification using Google Gemini AI
+🧠 Overview
+**
+This project demonstrates how Google’s Gemini AI model can be used to classify Iris flower species based on their sepal and petal measurements.
+It’s a modern reimplementation of the classic Iris Dataset problem using Generative AI and multimodal capabilities.
 
-# Run and deploy your AI Studio app
+The application predicts whether a given flower is:
 
-This contains everything you need to run your app locally.
+Iris Setosa
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Hs10DIHYR30hKiLl3e2GzhEFs5S_gB-0
+Iris Versicolor
 
+Iris Virginica
+
+In addition, it integrates the Imagen model via the Gemini API to generate AI-based images of each species, showcasing Gemini’s text-to-image generation feature.
+
+**⚙️ Features**
+
+🌸 Classifies Iris species based on user-input measurements
+
+🧮 Uses Google Gemini model for intelligent predictions
+
+🖼️ Generates realistic flower images using Imagen via Gemini API
+
+💡 Demonstrates a fusion of machine learning and generative AI
+
+🌐 Simple, interactive web interface for easy experimentation
+**
+🧩 How to Use**
+
+Enter sepal length, sepal width, petal length, and petal width (in cm).
+
+Click on “Classify Flower” to send data to the Gemini model.
+
+The predicted species and its generated image will appear below.
+
+Try the example buttons to auto-fill typical values for each species.
+
+**🧰 Tech Stack**
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Flask (Python)
+
+AI Model: Google Gemini (for prediction)
+
+Image Generation: Imagen via Gemini API
+
+Dataset: Classic Iris Dataset
+
+**🚀 Purpose**
+
+This project explores how Generative AI can enhance traditional machine learning applications — merging data-driven classification with creative AI visualization.
 ## Run Locally
 
 **Prerequisites:**  Node.js
