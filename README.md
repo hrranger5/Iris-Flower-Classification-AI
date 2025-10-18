@@ -1,10 +1,10 @@
-###🌼 Iris Flower Classification using Google Gemini AI###
-🧠 Overview
+**🌼 Iris Flower Classification using Google Gemini AI**
+**🧠 Overview**
 
 This project demonstrates how Google’s Gemini AI model can be used to classify Iris flower species based on their sepal and petal measurements.
 It’s a modern reimplementation of the classic Iris Dataset problem using Generative AI and multimodal capabilities.
 
-The application predicts whether a given flower is:
+**The application predicts whether a given flower is:**
 
 Iris Setosa
 
@@ -14,7 +14,7 @@ Iris Virginica
 
 In addition, it integrates the Imagen model via the Gemini API to generate AI-based images of each species, showcasing Gemini’s text-to-image generation feature.
 
-⚙️ Features
+**⚙️ Features**
 
 🌸 Classifies Iris species based on user-input measurements
 
@@ -26,7 +26,7 @@ In addition, it integrates the Imagen model via the Gemini API to generate AI-ba
 
 🌐 Simple, interactive web interface for easy experimentation
 
-🧩 How to Use
+**🧩 How to Use**
 
 Enter sepal length, sepal width, petal length, and petal width (in cm).
 
@@ -36,23 +36,23 @@ The predicted species and its generated image will appear below.
 
 Try the example buttons to auto-fill typical values for each species.
 
-🧰 Tech Stack
+**🧰 Tech Stack**
 
-Frontend: HTML, CSS, JavaScript
+**Frontend:** HTML, CSS, JavaScript
 
-Backend: Flask (Python)
+**Backend:** Flask (Python)
 
-AI Model: Google Gemini (for prediction)
+**AI Model:** Google Gemini (for prediction)
 
-Image Generation: Imagen via Gemini API
+**Image Generation:** Imagen via Gemini API
 
-Dataset: Classic Iris Dataset
+**Dataset:** Classic Iris Dataset
 
-🚀 Purpose
+**🚀 Purpose**
 
 This project explores how Generative AI can enhance traditional machine learning applications — merging data-driven classification with creative AI visualization.
 
-📦 Setup
+**📦 Setup**
 # Clone the repository
 git clone https://github.com/hrranger5/iris-flower-classification-ai.git
 
@@ -65,6 +65,6 @@ pip install -r requirements.txt
 # Run the Flask app
 python app.py
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Developed by Hafsa Raja — AI enthusiast exploring the intersection of Machine Learning, Generative AI, and Web Development.
