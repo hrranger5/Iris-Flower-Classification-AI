@@ -1,4 +1,4 @@
-🌼 Iris Flower Classification using Google Gemini AI
+###🌼 Iris Flower Classification using Google Gemini AI
 🧠 Overview
 
 This project demonstrates how Google’s Gemini AI model can be used to classify Iris flower species based on their sepal and petal measurements.
@@ -54,7 +54,7 @@ This project explores how Generative AI can enhance traditional machine learning
 
 📦 Setup
 # Clone the repository
-git clone https://github.com/yourusername/iris-flower-classification-ai.git
+git clone https://github.com/hrranger5/iris-flower-classification-ai.git
 
 # Navigate into the folder
 cd iris-flower-classification-ai
